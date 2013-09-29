@@ -1,4 +1,4 @@
-changeLocation for AngularJS v 0.1
+﻿changeLocation for AngularJS v 0.1
 ===========
 Simple service for redirecting by controller name, with exact parameters binding.
 
@@ -33,8 +33,9 @@ won't match any of the above routes, but will match this one
 ```
 
 Known limitations:
+
     * routes referencing controller by function reference (not name) might not work properly
 
 Author:
-    Micha� migajek Gajek
+    Michał migajek Gajek
     http://migajek.com/
